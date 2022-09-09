@@ -251,5 +251,36 @@ git diff master...feature # посмотреть что сделано в вет
   
   ![снимок](Сни.png)
 
-
+  ![GIT](https://miro.medium.com/max/1400/1*L1wCPhdvK2guitLVNVCEtw.jpeg)
 Конец  )))))
+это не конец
+ 
+ 4.	Сложный способ записи commit
+git commit – нажимаем [Entre]
+нажимаем [i] – переходим в режим написания commit
+нажимаем [ESC] – выходим из режима написания commit
+набираем [:wq] – выходим и commit создан (w – write, q - quite)
+
+Проще написать
+git commit -m “commit message” – запись commit с сообщением
+
+5.	echo “text” > [имя файла]
+6.	git commit -am “commit message”
+7.	.gitkeep –  images | storage 
+8.	.gitignore - .env | temp/* | cache/* | … 
+
+9.	mkdir images 
+10.	touch images/.gitkeep 
+11.	ls -a images 
+12.	git add images/
+13.	git commit -m “created images directory”
+14.	touch .gitignore
+15.	git add .gitignore
+16.	echo "config" > .gitignore 
+17.	cat .gitignore
+18.	git commit -am "ignore set up" - 
+19.	touch config 
+20.	echo "test" > config 
+21.	mv config config.md 
+22.	cat config.md 
+
