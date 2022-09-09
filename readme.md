@@ -23,6 +23,8 @@
 Здесь не хватает котиков!
 Первое фото котика 
 ![Здесь должно быть фото котика!](https://stat6.cdnbb8.com/files/image/article/upload/2012/2018-07/cat4.webp)
+![Здесь должно быть фото котика!](https://downloader.disk.yandex.ru/preview/a8973b36a2a45f69974ed8cf12fb0bd0828d176bb6efcc2122671d25c7a0cde2/631bc85a/pbJnVIBnWBuFGtxNFZ3tx16896bXD6ZUXeseh9IGRBrKzBAgZs1CVqhGw51wZgVpqAIHl6RFPIUQA9ikIgjksg%3D%3D?uid=0&filename=2022-06-14%2011-36-31.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=1920x973)
+***
 Нужно больше котиков!
 ***
 Спасибо за интересный семинар! 
