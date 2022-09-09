@@ -251,5 +251,50 @@ git diff master...feature # посмотреть что сделано в вет
   
   ![снимок](Сни.png)
 
+  ![GIT](https://miro.medium.com/max/1400/1*L1wCPhdvK2guitLVNVCEtw.jpeg)
+Конец  )))))
+это не конец
+ 
+ 
+	1.	Git обязательно нужно подружить для этого существует 
+git remote add origin [ссылка на https из GITHUB]
+2.	Git remote -v
+origin  https://github.com/PavelPodymov/Testing.git (fetch)
+origin  https://github.com/PavelPodymov/Testing.git (push)
+это показывает, что они подружились.
+
+
+3.	Удаление из отслеживания
+git restore --staged <file>..."
+git rm -–cached <file>
+ 
+4.	Сложный способ записи commit
+git commit – нажимаем [Entre]
+нажимаем [i] – переходим в режим написания commit
+нажимаем [ESC] – выходим из режима написания commit
+набираем [:wq] – выходим и commit создан (w – write, q - quite)
+
+Проще написать
+git commit -m “commit message” – запись commit с сообщением
+
+5.	echo “text” > [имя файла] – добавление в файл слова “text”
+6.	git commit -am “commit message” – одновременное использование “add” и “commit”
+7.	.gitkeep –  images | storage – сохранять пустые репозитории
+8.	.gitignore - .env | temp/* | cache/* | … - папка в которую записываем имена файлов с расширением,
+ они будут игнорироваться
+9.	mkdir images – создали папку внутри текущей паки
+10.	touch images/.gitkeep – создали скрытую папку
+11.	ls -a images – посмотреть скрытые файлы в папке [images]
+12.	git add images/
+13.	git commit -m “created images directory”
+14.	touch .gitignore
+15.	git add .gitignore
+16.	echo "config" > .gitignore - записать в файл информацию
+17.	cat .gitignore – посмотреть содержимое файла
+18.	git commit -am "ignore set up" - 
+19.	touch config – создали файл который не отслеживается
+20.	echo "test" > config – добавили информацию в не отслеживаемый файл
+21.	mv config config.md – переименовали файл
+22.	cat config.md – посмотрели содержимое файла
 
 Конец  )))))((((
