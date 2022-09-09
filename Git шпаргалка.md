@@ -31,15 +31,15 @@ git log
 
 git diff
 
-# Представлене
+# Представление
  git config --global user.name 'Имя'
 
  git config --global user.email 'e-mail'
 
-# Вернутся к прошлым версиям 
+# Вернуться к прошлым версиям 
  git checkout имя
  
-# Вернутся к актуальной версии
+# Вернуться к актуальной версии
 git checkout master
 
 # слияние веток
