@@ -132,3 +132,5 @@ git add --all
 **Thank You**
 ![1655749596_3-gas-kvas-com-p-sobaka-ulibaka-foto-3](https://user-images.githubusercontent.com/113272800/189512061-bd866c5e-b32d-445d-bb4d-01189143efd3.jpg)
 Друзья! Улыбаемся!!!!
+
+# Спасибо за семинары!
