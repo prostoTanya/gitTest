@@ -17,3 +17,30 @@
 * **git log** - журнал изменений
 
 * **git clone** - клонироание сетевого репозитория на ПК
+
+
+# Markdown description
+## Headers
+Here we post information adout how to head text
+#Header1
+
+##Header2
+
+###Header 3
+
+## Lists
+* List 1
+
+1. List 1
+## Images
+![avatar](https://_____)
+## Emphasis
+*Italic*
+
+**Bold**
+
+_Italic_
+
+__Bold__
+
+_Italic **Bold**_
